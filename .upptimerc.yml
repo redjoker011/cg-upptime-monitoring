@@ -7,9 +7,9 @@ sites:
   - name: ChatGenie CMS
     url: https://www.chatgenie.ph
   - name: ChatGenie Mini App
-    url: https://chatgenie-bot.chatgenie.ph
-  # - name: ChatGenie API
-  #  url: https://api.chatgenie.ph
+    url: $CG_MINI_APP_URL
+  - name: ChatGenie API
+    url: $CG_API_URL
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -18,8 +18,8 @@ status-website:
   baseUrl: /cg-upptime-monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "**ChatGenie** Uptime Monitoring"
+  introMessage: Monitor Server Host Uptime
   navbar:
     - title: Status
       href: /
