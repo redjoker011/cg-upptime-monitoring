@@ -40,19 +40,19 @@
     "url": "$CG_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chat-genie-api",
-    "status": "down",
-    "uptime": "24.17%",
-    "uptimeDay": "24.17%",
-    "uptimeWeek": "24.17%",
-    "uptimeMonth": "24.17%",
-    "uptimeYear": "24.17%",
-    "time": 570,
-    "timeDay": 570,
-    "timeWeek": 570,
-    "timeMonth": 570,
-    "timeYear": 570,
+    "status": "up",
+    "uptime": "1.30%",
+    "uptimeDay": "1.30%",
+    "uptimeWeek": "1.30%",
+    "uptimeMonth": "1.30%",
+    "uptimeYear": "1.30%",
+    "time": 632,
+    "timeDay": 632,
+    "timeWeek": 632,
+    "timeMonth": 632,
+    "timeYear": 632,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 9
     }
   }
 ]
