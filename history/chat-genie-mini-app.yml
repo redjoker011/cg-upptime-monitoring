@@ -1,7 +1,7 @@
-url: $CG_MINI_APP_URL  
+url: $CG_MINI_APP_URL
 status: up
 code: 200
-responseTime: 1285
-lastUpdated: 2021-01-05T23:33:15.391Z
+responseTime: 1119
+lastUpdated: 2021-01-06T23:34:14.220Z
 startTime: Wed Dec 09 2020 14:16:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
