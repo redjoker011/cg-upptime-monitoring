@@ -1,7 +1,7 @@
 url: $CG_API_URL
-status: up
-code: 200
-responseTime: 791
-lastUpdated: 2021-01-11T23:39:59.449Z
+status: down
+code: 521
+responseTime: 306
+lastUpdated: 2021-01-12T15:07:02.383Z
 startTime: Wed Dec 09 2020 14:27:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
